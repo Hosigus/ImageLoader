@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import com.hosigus.imageloader.interfaces.CompressStrategy;
 
 /**
- * Created by 某只机智 on 2018/4/6.
+ * Created by Hosigus on 2018/4/6.
  * 压缩参数
  * 若需要更多参数，请继承本类
  */

@@ -11,7 +11,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 /**
- * Created by 某只机智 on 2018/4/6.
+ * Created by Hosigus on 2018/4/6.
  * 质量压缩
  * 注:此方法压缩文件大小有限，建议 quality=85
  */

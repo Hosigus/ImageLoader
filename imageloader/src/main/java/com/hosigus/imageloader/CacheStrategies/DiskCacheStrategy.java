@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * Created by 某只机智 on 2018/4/6.
+ * Created by Hosigus on 2018/4/6.
  * 本地缓存
  */
 

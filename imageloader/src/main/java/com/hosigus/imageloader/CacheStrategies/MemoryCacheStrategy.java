@@ -6,7 +6,7 @@ import android.util.LruCache;
 import com.hosigus.imageloader.interfaces.CacheStrategy;
 
 /**
- * Created by 某只机智 on 2018/4/6.
+ * Created by Hosigus on 2018/4/6.
  * 内存缓存
  */
 

@@ -15,7 +15,7 @@ import java.util.Scanner;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * Created by 某只机智 on 2018/4/7.
+ * Created by Hosigus on 2018/4/7.
  */
 
 public class NetUtils {

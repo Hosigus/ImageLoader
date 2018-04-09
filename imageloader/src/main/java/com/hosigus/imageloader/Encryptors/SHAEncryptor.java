@@ -6,7 +6,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by 某只机智 on 2018/4/5.
+ * Created by Hosigus on 2018/4/5.
  * SHA加密
  */
 

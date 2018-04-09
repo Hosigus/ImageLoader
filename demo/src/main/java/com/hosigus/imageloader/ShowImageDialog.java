@@ -6,8 +6,10 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.widget.ImageView;
 
+import com.hosigus.imageloader.CompressStrategies.ScaleCompress;
+
 /**
- * Created by 某只机智 on 2018/4/7.
+ * Created by Hosigus on 2018/4/7.
  */
 
 public class ShowImageDialog extends Dialog {

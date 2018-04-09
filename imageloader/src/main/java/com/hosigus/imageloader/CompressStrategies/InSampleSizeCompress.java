@@ -12,7 +12,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 /**
- * Created by 某只机智 on 2018/4/6.
+ * Created by Hosigus on 2018/4/6.
  * 采样压缩，能有效压缩文件大小
  * 但是只能按2的倍数压缩图片
  */

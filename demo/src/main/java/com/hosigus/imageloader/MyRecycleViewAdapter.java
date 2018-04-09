@@ -2,19 +2,15 @@ package com.hosigus.imageloader;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.hosigus.imageloader.CompressStrategies.ScaleCompress;
-import com.hosigus.imageloader.Options.CompressOptions;
-
 import java.util.List;
 
 /**
- * Created by 某只机智 on 2018/4/7.
+ * Created by Hosigus on 2018/4/7.
  */
 
 public class MyRecycleViewAdapter extends RecyclerView.Adapter<MyRecycleViewAdapter.MyViewHolder> {
@@ -90,7 +86,6 @@ public class MyRecycleViewAdapter extends RecyclerView.Adapter<MyRecycleViewAdap
         }
 
         void loadImage(final String url) {
-            Log.d("Adapter Test", "loadImage: "+url+" w/h "+imageView.getWidth()+"/"+imageView.getHeight());
             builder.load(url).into(imageView);
             imageView.setOnClickListener(new View.OnClickListener() {
                 @Override

@@ -3,7 +3,7 @@ package com.hosigus.imageloader.interfaces;
 import android.graphics.Bitmap;
 
 /**
- * Created by 某只机智 on 2018/4/7.
+ * Created by Hosigus on 2018/4/7.
  * 加载图片回调接口
  */
 
