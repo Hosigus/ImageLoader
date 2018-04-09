@@ -56,8 +56,8 @@
   > 文件名加密策略： ```MD5Encryptor```   ```SHAEncryptor```
 
 - 加载大量图片时建议使用：
-  1.相同的参数构建成一个builder对象
 
+  1.相同的参数构建成一个builder对象
   ```Java
   ImageLoaderBuilder builder = ImageLoader.with(context)
   	.cacheStrategy(DiskCacheStrategy.getInstance())//设置缓存方案
@@ -90,11 +90,11 @@
 ## 关于默认
 
    	1. 默认使用内存缓存+磁盘缓存
-     2. 默认使用MD5加密文件名
-      3. 默认不缓存原图
-      4. 默认使用 ```ScaleCompress``` 适应ImageView压缩图片
+    2. 默认使用MD5加密文件名
+    3. 默认不缓存原图
+    4. 默认使用 ```ScaleCompress``` 适应ImageView压缩图片
 
 
 
 ## 开发者
-Hosigus [hosigus9733@gmail.com](mailto:hosigus9733@gmail.com)
+  Hosigus [hosigus9733@gmail.com](mailto:hosigus9733@gmail.com)
