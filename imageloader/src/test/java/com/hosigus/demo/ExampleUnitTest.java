@@ -1,4 +1,4 @@
-package com.hosigus.imageloader;
+package com.hosigus.demo;
 
 import org.junit.Test;
 

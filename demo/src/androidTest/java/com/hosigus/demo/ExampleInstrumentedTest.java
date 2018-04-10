@@ -1,4 +1,4 @@
-package com.hosigus.imageloader;
+package com.hosigus.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hosigus.imageloader.test", appContext.getPackageName());
+        assertEquals("com.hosigus.imageloader", appContext.getPackageName());
     }
 }

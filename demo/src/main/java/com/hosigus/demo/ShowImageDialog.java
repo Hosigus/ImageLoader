@@ -1,4 +1,4 @@
-package com.hosigus.imageloader;
+package com.hosigus.demo;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.widget.ImageView;
 
-import com.hosigus.imageloader.CompressStrategies.ScaleCompress;
+import com.hosigus.imageloader.ImageLoader;
 
 /**
  * Created by Hosigus on 2018/4/7.
